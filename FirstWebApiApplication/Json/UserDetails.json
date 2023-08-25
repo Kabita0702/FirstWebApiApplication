@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 0,
+    "UserId": 0,
+    "FirstName": "kabita",
+    "LastName": "kumari",
+    "Gender": null,
+    "Email": null,
+    "Specilization": null,
+    "IsEmployee": true,
+    "Address": "jsr",
+    "IsActive": true
+  }
+]
